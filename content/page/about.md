@@ -1,16 +1,9 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Would you like to know more about me?
 comments: false
+
 ---
+My name is Manan Patel. I am a technologist and entreprenuer.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I mostly write about new technologies, startups and productivity.
