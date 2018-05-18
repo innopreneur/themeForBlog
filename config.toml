@@ -1,4 +1,4 @@
-baseurl = "innoprenuer.github.io"
+baseurl = "https://innoprenuer.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
