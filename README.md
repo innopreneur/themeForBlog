@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Beautiful Hugo - A port of Beautiful Jekyll Theme
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
@@ -129,6 +130,10 @@ This is a port of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/bea
 ## License
 
 MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
+=======
+# themeForBlog
+Theme for my personal blog
+>>>>>>> 2cc5031262141cf654a3e2f381253eb5affe3a34
 =======
 # themeForBlog
 Theme for my personal blog

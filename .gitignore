@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Themes directory of example site; ignored so that we can clone the repo
 # inside the themes directory and test the example site with "hugo server".
 exampleSite/themes/
@@ -49,6 +50,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+public/
+>>>>>>> 2cc5031262141cf654a3e2f381253eb5affe3a34
 =======
 public/
 >>>>>>> 2cc5031262141cf654a3e2f381253eb5affe3a34
