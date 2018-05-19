@@ -1,22 +1,21 @@
 baseurl = "https://innoprenuer.github.io"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Suits & Shorts"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-pygmentsStyle = "trac"
+#pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-disqusShortname = "innoprenuer"
+disqusShortname = "mpatel"
 googleAnalytics = "UA-119408721-1"
 
 [Params]
-  homeTitle = "My Personal Blog" # Set a different text for the header on the home page
-  subtitle = "A blog about tech and productivity"
-  logo = "img/avatar-icon.png"
+  homeTitle = "Suits & Shorts" # Set a different text for the header on the home page
+  subtitle = "A blog about technology, philosophy and industry"
+  logo = "img/tuxedo.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -41,28 +40,28 @@ googleAnalytics = "UA-119408721-1"
 
 [Author]
   name = "Manan Patel"
-  website = "yourwebsite.com"
+  website = "#"
   email = "manan14patel@gmail.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  #facebook = "username"
+  #googleplus = "+manan14patel" # or xxxxxxxxxxxxxxxxxxxxx
   github = "innoprenuer"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+  #gitlab = "username"
+  bitbucket = "manan14patel"
+  twitter = "manan77patel"
+  reddit = "gamician"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -75,24 +74,24 @@ googleAnalytics = "UA-119408721-1"
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "projects"
+    name = "Projects"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
+    parent = "projects"
     name = "Big Image Sample"
     url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
+    parent = "projects"
     name = "Math Sample"
     url = "post/2017-03-05-math-sample"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
+    parent = "projects"
     name = "Code Sample"
     url = "post/2016-03-08-code-sample"
     weight = 3
