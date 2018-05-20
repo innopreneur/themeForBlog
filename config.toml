@@ -11,6 +11,8 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "mpatel"
 googleAnalytics = "UA-119408721-1"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [Params]
   homeTitle = "Suits & Shorts" # Set a different text for the header on the home page
